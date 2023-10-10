@@ -1,3 +1,3 @@
-# whitehead
+# Et-Cetera Website
 
 
